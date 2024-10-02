@@ -1,0 +1,20 @@
+7 3 3 6
+0x00000000
+0x00400000
+0x008A0000
+0x00DC0000
+0x00800000
+0x00010000
+0x01490000
+0x00000000
+0x00000000
+0x00000009
+Glob2 D 1
+Glob3 D 2
+Glob U 0
+2 lw loc
+3 sw loc
+4 lw Glob
+0 .fill Glob
+1 .fill Glob
+2 .fill Glob3
